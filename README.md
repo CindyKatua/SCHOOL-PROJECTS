@@ -1,1 +1,2 @@
-[ECC 108 PROJECT PYTHON CODE REPORT.docx](https://github.com/CindyKatua/SCHOOL-PROJECTS/files/15370696/ECC.108.PROJECT.PYTHON.CODE.REPORT.docx)
+
+[REPORT.pdf](https://github.com/CindyKatua/SCHOOL-PROJECTS/files/15370704/REPORT.pdf)
